@@ -4,7 +4,7 @@ Daemon Code of Conduct
 
 As contributors and maintainers of this project, and in the interest of fostering an open and welcoming community, we pledge to respect all people who contribute through reporting issues, posting feature requests, updating documentation, submitting pull requests or patches, and other activities.
 
-Since we are a coin built for the Mission to help solve the Opioid Addiction Epidemic, we require mining pools to respect the 10% Dev fee.  50% of our efforts go to our Founding partner SoberLifeUSA as well as the other recovery centers who have signed on to use our coin as payment since the conception of the coin.  This coin will be used to treat patients and help build out needed infrastructure and support staff.
+Since we are a coin built for the Mission to help solve the Opioid Addiction Epidemic, we require mining pools to respect the *10% Dev fee*.  *50%* of our efforts go to our Founding partner SoberLifeUSA as well as the other recovery centers who have signed on to use our coin as payment since the conception of the coin.  This coin will be used to treat patients and help build out needed infrastructure and support staff.
 
 We are committed to making participation in this project a harassment-free experience for everyone, regardless of level of experience, gender, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, or nationality.
 
@@ -26,9 +26,10 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 Advanced Treatment is HERE! This is a Reality and OUR MISSION is to help solve the number one Epidemic, the Opioid Crisis!
 
-# Use Policy
+#$ Use Policy
 https://github.com/OidLife/Use-Policy
 
 
-
+Thank you,  
+[OID Team](https://oid.life/)
 
