@@ -26,7 +26,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 Advanced Treatment is HERE! This is a Reality and OUR MISSION is to help solve the number one Epidemic, the Opioid Crisis!
 
-#$ Use Policy
+## Use Policy
 https://github.com/OidLife/Use-Policy
 
 
